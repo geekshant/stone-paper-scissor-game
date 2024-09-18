@@ -1,2 +1,2 @@
 # stone-paper-scissor-game
-its a stone, paper &amp; scissor game made with the help of python
+it's a stone, paper & scissor game made with the help of python
