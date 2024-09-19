@@ -1,2 +1,3 @@
-# stone-paper-scissor-game
-it's a stone, paper & scissor game made with the help of python
+# my first repo
+this is my first repo <br> 
+will learn and upload some good stuff.
